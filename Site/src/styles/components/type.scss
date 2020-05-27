@@ -1,33 +1,50 @@
-body
-{
+// :root {
+//   font-size: 62.5%; // 10px base: 16px => 62.5% de 16 px donne 10px
+// }
+
+body {
   background-color: $color-background;
-  font-family: 'IM Fell French Canon', serif;
-  font-size: $p-medium;
+  font-family: "IM Fell French Canon", serif;
+  font-size: $p-medium; // 16px
   line-height: 1.5;
   color: $color-dark;
   margin: 0;
 }
 
-// STYLE DE SECTION //
+// .section {
+//   font-size: 3.2rem;
+//   font-size: 2em; // 32px
+//   width: 200px; // 20rem
+//   &--soussection {
+//     font-size: 2.4rem; // 24 px 2.4 * 10
+//     font-size: 1.5em; // ? 24px => 32 + 16px
+//   }
+// }
 
-.section--header, .section--footer
-{
+// @media (min-width: 50rem) {
+//   .section {
+//     width: 50rem; // 500px
+//   }
+// }
+
+// STYLE DE SECTION //
+.section {
+  margin-bottom: 50px;
+}
+.section--header {
   background-color: $color-dark;
   color: $color-alt;
 }
 
-.section--header
-{
+.section--header {
   display: flex;
   justify-content: space-between;
 }
 
-.section--nav
-{
+.section--nav {
   display: none;
 
-  &-open
-  {
+  &-open {
     display: block;
     background-color: $color-dark;
     color: $color-background;
@@ -36,96 +53,90 @@ body
   }
 }
 
-.section--demo, .section--test
-{
+.section--demo,
+.section--test {
   padding: 0 $space-big;
 }
 
-.section--test
-{
+.section--test {
   padding-bottom: $space-big;
 }
 
-.section--dictionnary
-{
+.section--dictionnary {
   padding: $space-big;
   padding-bottom: 0;
-  padding-right: $space-big*2;
+  padding-right: $space-big * 2;
 }
 
-.dictionnary-block
-{
+.dictionnary-block {
   display: flex;
   justify-content: space-between;
-  padding-bottom: $space-big
+  padding-bottom: $space-big;
 }
 
-.section--footer
-{
-  font-family: 'Nothing You Could Do', cursive;
+.footer {
+  font-family: "Nothing You Could Do", cursive;
   font-weight: 900;
   padding: $space-small $space-big;
+  background-color: $color-dark;
+  color: $color-alt;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100vw;
+  box-sizing: border-box;
 }
 
 // STYLE DE POLICE //
 
-.title
-{
+.title {
   margin: 0;
   color: $color-dark;
   text-align: center;
 
-  &--logo
-  {
+  &--logo {
     color: $color-background;
     margin: $space-small/3 $space-small/2;
   }
 
-  &--big
-  {
-    font-family: 'Nothing You Could Do', cursive;
+  &--big {
+    font-family: "Nothing You Could Do", cursive;
     margin-top: $space-big;
     font-size: $title-big;
     text-align: center;
   }
 
-  &--medium
-  {
+  &--medium {
     color: $color-light;
     font-size: $title-small;
 
-    &-letter
-    {
-      font-family: 'Nothing You Could Do', cursive;
+    &-letter {
+      font-family: "Nothing You Could Do", cursive;
       text-align: left;
-      font-size: $title-small*1.33;
+      font-size: $title-small * 1.33;
       color: $color-alt;
     }
   }
 
-  &--small
-  {
+  &--small {
     color: $color-dark;
     font-size: $title-small;
     text-align: left;
-    margin-top: $space-big*2;
-    margin-bottom: $space-small*2;
+    margin-top: $space-big * 2;
+    margin-bottom: $space-small * 2;
   }
 }
 
-.paragraph
-{
+.paragraph {
   margin: 0;
   color: $color-dark;
   margin-top: $space-big;
 
-  &--medium
-  {
+  &--medium {
     font-size: $p-medium;
   }
 
-  &--small
-  {
+  &--small {
     font-size: $p-small;
     color: $color-alt;
     margin: 0;
@@ -134,29 +145,24 @@ body
 
 // STYLE STRONG //
 
-.name
-{
-  &--help
-  {
-    font-family: 'Nothing You Could Do', cursive;
+.name {
+  &--help {
+    font-family: "Nothing You Could Do", cursive;
   }
 
-  &--read
-  {
-    font-family: 'IM Fell DW Pica', serif;
+  &--read {
+    font-family: "IM Fell DW Pica", serif;
     color: $color-alt;
   }
 
-  &-book
-  {
+  &-book {
     font-weight: bolder;
   }
 }
 
 // STYLE BUTTON //
 
-.button
-{
+.button {
   border: none;
   margin: 0;
   padding: 0;
@@ -165,16 +171,14 @@ body
   background: none;
 }
 
-.button--nav
-{
+.button--nav {
   margin: $space-big;
   background-image: url("../assets/images/book.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: right;
-  
-  &-open
-  {
+
+  &-open {
     margin: $space-big;
     background-image: url("../assets/images/book-open.png");
     background-size: contain;
@@ -183,90 +187,78 @@ body
   }
 }
 
-.button--download
-{
+.button--download {
   display: block;
-  margin: $space-big*4 auto 0 auto;
+  margin: $space-big * 4 auto 0 auto;
   background-color: $color-dark;
   border-radius: 0.5em;
   width: 80%;
   height: max-content;
   padding: 1em;
   font-size: $p-medium;
-  font-family: 'Nothing You Could Do', cursive;
+  font-family: "Nothing You Could Do", cursive;
   font-weight: 900;
   color: $color-background;
   box-shadow: 5px 0px 5px 0px #8181812f;
 
-  &:hover
-  {
+  &:hover {
     color: $color-alt;
   }
 }
 
 // STYLE DE LISTE //
 
-.nav__list
-{
+.nav__list {
   margin: 0;
   text-align: right;
   list-style: none;
   justify-content: end;
 
-    &-el
-    {
-      margin: $space-small 0;
-      padding: 0 $space-small;
-    }
+  &-el {
+    margin: $space-small 0;
+    padding: 0 $space-small;
+  }
 }
 
-.dictionnary__list
-{
+.dictionnary__list {
   list-style: none;
   margin: 0;
 
-  &-el
-  {
+  &-el {
     padding: $space-small 0;
     padding-top: 0;
-    font-size: $p-medium*1.3;
+    font-size: $p-medium * 1.3;
   }
 }
 
 // STYLE LIEN //
 
-a
-{
+a {
   text-decoration: none;
   color: $color-background;
 }
 
-a:hover
-{
+a:hover {
   color: $color-alt;
   font-weight: bolder;
 }
 
 // STYLE FILTER //
 
-.filter
-{
-  padding: $space-big $space-big*2;
+.filter {
+  padding: $space-big $space-big * 2;
 
-  &-form
-  {
+  &-form {
     padding: 0;
 
-    &::after
-    {
-    display: block;
-    content: "";
-    border-bottom: solid $color-dark 2px;
+    &::after {
+      display: block;
+      content: "";
+      border-bottom: solid $color-dark 2px;
     }
   }
 
-  &-field
-  {
+  &-field {
     padding: 0;
     margin-bottom: 10px;
     background-image: url("../../assets/images/search.png");
@@ -275,8 +267,7 @@ a:hover
     background-size: contain;
   }
 
-  &-label
-  {
+  &-label {
     background-image: url("../../assets/images/search.png");
     background-repeat: no-repeat;
     background-position: center;
@@ -284,19 +275,51 @@ a:hover
   }
 }
 
-input[type=text]
-{
+input[type="text"] {
   height: 100%;
   width: 75%;
   padding: 0;
-  font-family: 'Nothing You Could Do', cursive;
+  font-family: "Nothing You Could Do", cursive;
   font-weight: bolder;
   font-size: $p-medium;
   outline: none;
 }
 
-#filter-term
-{
+#filter-term {
   background-color: $color-background;
   border: none;
+}
+
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 50;
+  background-color: white;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  opacity: 0;
+  pointer-events: none;
+  transition: 500ms ease-in;
+
+  &--active {
+    opacity: 1;
+    pointer-events: all;
+
+    transition: 500ms ease-in;
+  }
+
+  &__close {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    background-color: red;
+    padding: 20px;
+  }
 }
