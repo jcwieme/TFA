@@ -1,0 +1,182 @@
+{
+    "armure":
+    {
+        "firstEncounter": "Prologue de Waylander",
+        "explain": "L'Armure ou l'Armure de bronze était l'armure légendaire d'Orien, le roi de la bataille des Drenai. Cachée par Orien lors de son abdication, elle a été découverte par l'assassin Waylander pendant les guerres vagriennes et est passée entre les mains du général Egel des Drenai. Après l'anoblissement d'Egel en tant que comte de bronze, l'armure est devenue partie intégrante du comté, transmise par la lignée familiale. La magie de l'armure découle simplement de l'effet que sa présence a sur le champ de bataille, car l'armure est tenue en respect par tous les Drenai, dont le courage et la volonté de vaincre peuvent être comptés pour s'envoler dès qu'ils voient l'armure ou savent que celui qui la porte est avec eux."
+    },
+    "armure de Bronze":
+    {
+        "firstEncounter": "Prologue de Waylander",
+        "explain": "L'Armure ou l'Armure de bronze était l'armure légendaire d'Orien, le roi de la bataille des Drenai. Cachée par Orien lors de son abdication, elle a été découverte par l'assassin Waylander pendant les guerres vagriennes et est passée entre les mains du général Egel des Drenai. Après l'anoblissement d'Egel en tant que comte de bronze, l'armure est devenue partie intégrante du comté, transmise par la lignée familiale. La magie de l'armure découle simplement de l'effet que sa présence a sur le champ de bataille, car l'armure est tenue en respect par tous les Drenai, dont le courage et la volonté de vaincre peuvent être comptés pour s'envoler dès qu'ils voient l'armure ou savent que celui qui la porte est avec eux."
+    },
+    "assassin":
+    {
+        "firstEncounter": "Chapitre 1 de Waylander",
+        "explain": "L'Assassin, Dakeyras, également connu sous le nom de Waylander et d'Homme Gris, était un tristement célèbre assassin Drenaï dont les actions sont devenues des événements centraux à plusieurs moments de l'histoire du monde. Après avoir mené une brève carrière dans l'armée drenaï, Dakeyras s'est marié et s'est installé, mais sa vie a été détruite un après-midi d'été lorsqu'un gang de bandits a brutalement assassiné sa famille. Consumé par la rage et un besoin de vengeance, Dakeyras a traqué les membres du gang de bandits pendant les vingt années suivantes, les traquant et les tuant un par un. Pendant cette période de sa vie, il se fait appeler Waylander, et c'est sous ce nom qu'il sera reconnu comme l'un des assassins les plus meurtriers qui aient jamais vécu. Il finit par accepter un contrat pour assassiner son propre roi, le roi Drenaï Nialliad. Ayant réussi à mener à bien ce contrat, il a été trahi par son employeur et forcé de s'enfuir. Rencontré par un vieil homme prétendant être Orien, père du roi Nialliad, Waylander accepte d'entreprendre la quête de l'Armure de Bronze. Une fois la quête terminée, il a tourné le dos à son métier et s'est installé avec sa deuxième famille."
+    },
+    "chaos":
+    {
+        "firstEncounter": "Prologue de Waylander",
+        "explain": "Le Chaos, ou l'Esprit du Chaos, est l'exact opposé de la Source. Il est une divinité créatrice de la destruction, de la violence et du chaos en général. Il est vénéré par la Confrérie Noire, appelée aussi les Chevaliers de Sang, Templiers Noirs ou Chevaliers des Ténèbres."
+    },
+    "chien du Chaos":
+    {
+        "firstEncounter": "Chapitre 2 de Waylander",
+        "explain": "Les Chiens du Chaos faisaient partie de la Confrérie Noire, ils étaient le bras armés de la Confrérie. C'étaient des tueurs surentrainés en armure intégrale ingérant des feuilles de Lorassium pour bénificier des mêmes pouvoirs que les mystiques, séparer leur âme de leur corps par exemple."
+    },
+    "confrérie":
+    {
+        "firstEncounter": "Chapitre 5 de Waylander",
+        "explain": "La Confrérie Noire était l'exact opposé des Prêtres de la Source, ils vénéraient l'Esprit du Chaos et utilisaient son pouvoir à des fins malfaisantes. Ils étaient à l'origine de la création des Chiens du Chaos et voulaient détruire le peuple Drenaï pour régner sur le continent."
+    },
+    "dakeyras":
+    {
+        "firstEncounter": "Chapitre 6 de Waylander",
+        "explain": "Dakeyras, également connu sous le nom de Waylander et d'Homme Gris, était un tristement célèbre assassin Drenaï dont les actions sont devenues des événements centraux à plusieurs moments de l'histoire du monde. Après avoir mené une brève carrière dans l'armée drenaï, Dakeyras s'est marié et s'est installé, mais sa vie a été détruite un après-midi d'été lorsqu'un gang de bandits a brutalement assassiné sa famille. Consumé par la rage et un besoin de vengeance, Dakeyras a traqué les membres du gang de bandits pendant les vingt années suivantes, les traquant et les tuant un par un. Pendant cette période de sa vie, il se fait appeler Waylander, et c'est sous ce nom qu'il sera reconnu comme l'un des assassins les plus meurtriers qui aient jamais vécu. Il finit par accepter un contrat pour assassiner son propre roi, le roi Drenaï Nialliad. Ayant réussi à mener à bien ce contrat, il a été trahi par son employeur et forcé de s'enfuir. Rencontré par un vieil homme prétendant être Orien, père du roi Nialliad, Waylander accepte d'entreprendre la quête de l'Armure de Bronze. Une fois la quête terminée, il a tourné le dos à son métier et s'est installé avec sa deuxième famille."
+    },
+    "danyal":
+    {
+        "firstEncounter": "Chapitre 2 de Waylander",
+        "explain": "Danyal est une jeune femme qui a survécu avec Culas, Miriel et Krylla, de jeunes enfants, à une attaque des Chiens du Chaos. Son seul but était d'aller avec les enfants en sécurité près d'Egel, derrière les murs de la forteresse de Dros Purdol. Le début de la relation entre Waylander et Danyal était froid mais après avoir traversé multitude d'épreuve, un amour est né entre eux et ils se sont installés ensemble avec Miriel et Krylla qu'ils ont adoptés."
+    },
+    "dardalion":
+    {
+        "firstEncounter": "Chapitre 1 de Waylander",
+        "explain": "Dardalion était à l'origine un membre de la prêtrise de la Source, devenant plus tard le premier abbé des épées. Participant aux guerres de Ventria, l'âme pure de Dardalion a été entachée par celle de l'assassin, Waylander. Les effets de cette situation, ainsi que sa propre pensée, ont convaincu Dardalion que le pacifisme face à l'anéantissement n'était pas le meilleur moyen de servir la Source. Utilisant ses talents mystiques pour aider le général Drenai Karnak, ainsi que pour combattre directement la Confrérie Noire, Dardalion a attiré à lui d'autres prêtres partageant ses idées. Ce groupe de prêtres a été connu sous le nom de Trente. À la fin des guerres de Ventria, Dardalion a réformé les Trente selon des règles et des restrictions spécifiques pour en faire un temple de prêtres guerriers, et mit en place les moyens pour que les Trente puissent continuer après sa mort."
+    },
+    "drenaï":
+    {
+        "firstEncounter": "Prologue de Waylander",
+        "explain": "Drenaï était une nation de longue date. Leurs principaux ennemis sont le Nadir, une nation de tribus guerrières de type mongol, les Empires Ventrian et Vagrian, et les Sathuli, une tribu religieuse de guerriers reclus qui vivent dans les steppes de Delnoch. Les Drenaï ont obtenu leur liberté de l'Empire Vagrian grâce aux efforts des héros légendaires Karnak et Egel, le premier Comte de Bronze."
+    },
+    "dros purdol":
+    {
+        "firstEncounter": "Chapitre 4 de Waylander",
+        "explain": "Dros Purdol étiat une ville portuaire avec une fortification militaire. C'était dans cette ville qu'Egel a réussis à vaincre l'armée vagrianne et que Drenaï est restée libre."
+    },
+    "durmast":
+    {
+        "firstEncounter": "Chapitre 10 de Waylander",
+        "explain": "Durmast était une vieille connaissance de Waylander, il était aussi amoral et sans-pitié que lui. Chacun faisait confiance à l'autre comme ils faisaient confiance aux autres, ils ne faisaient confiance à personne et leur relation se limitait à des services payant qu'ils se faisaient l'un l'autre. Avec l'aide de Durmast, Waylander pouvait se rendre jusqu'à l'Armure de Bronze et Durmast allait recevoir six milles picèces d'or en échange. Cependant, Durmast était en association avec Sorak pour tuer Waylander et empocher la prime pour la tête de Waylander qui s'élèvait à cinq milles pièces d'or. Durmast avait donné l'Armure de Bronze à Egel et avait laissé Waylander vivant, il s'était même battu à ses côtés pour le sauver."
+    },
+    "egel":
+    {
+        "firstEncounter": "Chapitre 2 de Waylander",
+        "explain": "Egel était le général de l'armée de Drenaï. Il a résisté à l'attaque de l'armée vagrianne à Dros Purdol malgré que ses effectifs étaient nettement moindre que ceux de l'armée ennemie. Avec l'Armure de Bronze, il avait insulflé l'espoir et le courage à ses troupes et ils ont battu l'armée vagrianne. Après cela, il était devenu le premier Comte de Bronze et l'Armure est restée dans sa famille par hérédité."
+    },
+    "élu":
+    {
+        "firstEncounter": "Prologue de Waylander",
+        "explain": "D'après Orien, seul l'Elu pouvait récupérer l'Armure de Bronze et lui seul pouvait sauver Drenaï des jours sanglants."
+    },
+    "empire vagrian":
+    {
+        "firstEncounter": "Chapitre 5 de Waylander",
+        "explain": "L'empire Vagrian ou Vagria était situé au sud-ouest de Drenaï."
+    },
+    "empire ventrian":
+    {
+        "firstEncounter": "Chapitre 1 de Waylander",
+        "explain": "L'empire ventrian ou Ventria était situé au sud-est de Drenaï, de l'autre côté de la mer Ventrianne."
+    },
+    "enson":
+    {
+        "firstEncounter": "Chapitre 23 de Waylander",
+        "explain": "Enson était un Chien du Chaos découvrant ses pouvoirs lentement sous la tutelle de Tchard, un Chien du Chaos plus expérimenté. Tout deux, ils devaient tuer Waylander en accord avec Durmast."
+    },
+    "kaem":
+    {
+        "firstEncounter": "Chapitre 5 de Waylander",
+        "explain": "Kaem était le général de l'armée vagrianne, il avait payé Waylander pour tuer le roi Niallad, ce qui a permis à Kaem de déclencher une guerre entre Vagria et Drenaï."
+    },
+    "kaï":
+    {
+        "firstEncounter": "Chapitre 21 de Waylander",
+        "explain": "Kaï était un homme-monstre borgne capable de soigner des blessures seulement avec ses mains et vivant anormalement longtemps. Il avait été abandonné peu après sa naissance et il s'en rappelait bien car il possédait une mémoire exceptionnelle. Sans nom, ni futur, il avait vécu d'une manière simple, regardeant les bergers guider leurs troupeaux et les oiseaux voler au-dessus de lui. Il se donna le nom de Kaï."
+    },
+    "kesa khan":
+    {
+        "firstEncounter":"Chapitre 16 de Waylander",
+        "explain": "Kesa Khan était un chaman utilisant ses pouvoirs pour servir l'armée vagrianne. Il utilisait ses osselets pour prédire l'avenir et usait de pouvoirs maléfiques pour transférer des âmes humaines dans le corps d'animaux et procurer des feuilles de Lorassium pour permettre aux Chiens du Chaos de bénificier des mêmes pouvoirs que les mystiques."
+    },
+    "géant sacré":
+    {
+        "firstEncounter": "Chapitre 5 de Waylander",
+        "explain": "Le Géant Sacré était le nom donné à Raboas, une immense montagne située au centre de la chaîne de montagne de la Lune. Elle était située à l'ouest de Gulgothir, au nord de Drenaï."
+    },
+    "lenlaï le possédé":
+    {
+        "firstEncounter": "Chapitre 18 de Waylander",
+        "explain": "Lenlaï le possédé était un homme qui s'était mangé la langue après une violente crise. Avec 5 autres hommes qui avaient perdus leurs forces, comme un bras ou la capacité de marcher, il avait été l'objet d'un rituel pratiqué par Kesa Khan pour que son âme revive dans le corps d'un loup."
+    },
+    "miriel et krylla":
+    {
+        "firstEncounter": "Chapitre 1 de Waylander",
+        "explain": "Miriel et Krylla étaient deux soeurs jummelles qui étianet dotées de pouvoir de mystiques. Elles ont fait un bout de chemin avec Danyal, Waylander et Dardalion avant de rester à Skultik pour apprendre à utiliser leurs pouvoirs. Après la guerre entre Vantria et Drenaï, elles ont été adoptée par Waylander et Danyal et ils ont vécu ensemble jusqu'à leur majorité."
+    },
+    "nadir":
+    {
+        "firstEncounter": "Prologue de Waylander",
+        "explain": "Les Nadir étaient un groupe ethnique de tribus nomades qui vivaient dans la vaste et stérile région des steppes du principal continent du monde. Composés de plusieurs tribus, les Nadir partageaient une culture commune, notamment des rites chamaniques et la croyance en un Unificateur."
+    },
+    "niallad":
+    {
+        "firstEncounter": "Prologue de Waylander",
+        "explain": "Niallad était le roi des Drenaï et le fils d'Orien. Il est monté sur le trône de Drenaï après l'abdication de son père, quelque temps avant les guerres du Vaghreb. Considéré par beaucoup comme un souverain incompétent, Niallad préférait la paix à la guerre, et l'armée des Drenaï a été considérablement réduite pendant son règne. Les Vagrians y ont vu un signe de faiblesse et ont saisi l'opportunité d'envahir les terres de Drenai. Peu après l'invasion des Vagrians, le roi Niallad a été abattu d'un carreau d'arbalèthe dans le dos par Waylander alors qu'il traversait son jardin, sur ordre du général Vagrian Kaem."
+    },
+    "orien":
+    {
+        "firstEncounter": "Prologue de Waylander",
+        "explain": "Orien, également connu sous le nom d'Orien Deux Lames et comme le roi de la bataille des Drenaï, a été le premier propriétaire de la légendaire Armure de Bronze. Considéré comme le principal responsable de la création de la nation Drenaï elle-même, Orien était une figure imposante pour le peuple Drenaï. Son célèbre ensemble d'armures personnelles était devenu légendaire, étant considéré comme un symbole national. Vers la fin de sa vie, Orien avait reçu une vision qui l'avait convaincu que la seule façon d'assurer la survie du pays était de cacher son armure, pour l'utiliser dans le futur comme un point de ralliement, une lumière dans les heures les plus sombres des Drenaï. Abdiquant son trône, Orien était resté hors de l'histoire jusqu'aux derniers jours de sa vie, lorsqu'il était revenu pour inciter l'assassin, Waylander, à tenter la quête de l'Armure de bronze. "
+    },
+    "prêtre de la source":
+    {
+        "firstEncounter": "Chapitre 1 de Waylander",
+        "explain": "Les Prêtres de la Source se consacraient à la Source de toutes choses. Leur foi visait à contrer la guerre par la paix, la haine par l'amour et la violence par un pacifisme extrême. Les prêtres cultivaient le talent en eux-mêmes et étaient souvent de grands guérisseurs. Les Trente étaient un groupe dissident de ce sacerdoce qui avait pris les armes lors de l'invasion vagrianne dans Waylander."
+    },
+    "raboas":
+    {
+        "firstEncounter": "Chapitre 5 de Waylander",
+        "explain": "Raboas est la montagne centrale de la chaîne de montagne de la Lune. Elle est la plus grande montagne et est ainsi surnommée le Géant Sacré. C'est en son sein qu'est cachée l'Armure de Bronze d'Orien."
+    },
+    "sathuli":
+    {
+        "firstEncounter": "Chapitre 6 de Waylander",
+        "explain": "Les Sathuli étaient une tribus semi-nomades habitant les montagnes du Delnoch. C'était un peuple reclus de guerrier profondément religieux."
+    },
+    "sorak":
+    {
+        "firstEncounter": "Chapitre 10 de Waylander",
+        "explain": "Sorak est le complique de Durmast, ils sont alliés pour tuer Waylander et empôcher la prime de cinq mille pièce d'or qu'il y a sur la tête de l'Assassin."
+    },
+    "source":
+    {
+        "firstEncounter": "Chapitre 2 de Waylander",
+        "explain": "La Source est une divinité priée par les Prêtres de la Source. Elle est considérée comme la source de toutes choses, influencerait les évènements du monde par l'inspiration, la guidance et les rouages subtils du destin."
+    },
+    "tanya":
+    {
+        "firstEncounter": "Chapitre 2 de Waylander",
+        "explain": "Tanya était la femme de Waylander, elle a été assassinée par des brigands avec ses enfants. Ce jour-là, Waylander est devenu un autre homme plein de colère, de besoin de vengeance et de rancoeur."
+    },
+    "tchard":
+    {
+        "firstEncounter": "",
+        "explain": "Tchard était un Chien du Chaos ayant pour mission de tuer Waylander en commun accord avec Durmast. Il apprenait à Enson à utiliser ses pouvoirs de Chien du Chaos."
+    },
+    "temple":
+    {
+        "firstEncounter": "Chapitre 6 de Waylander",
+        "explain": "Le Temple, en plus d'être une église où se réunissaient les Trente, étaient aussi une forme spirituelle où chaque âme des Trente ne fait plus qu'un avec celle des autres. Sous cette forme, les Trente devenaient une entité surpuissante mais néanmoins très dangereuse car le Temple pouvait submerger la personnalité de chaque Prêtre."
+    },
+    "trente":
+    {
+        "firstEncounter": "Chapitre 6 de Waylander",
+        "explain": "Les Trente était un groupe de Prêtres de la Source qui partageaient les idées de Dardalion. Les Prêtres de la Source étaient totalement pacifistes mais les Trente restaient des Prêtres de la Source qui passaient à l'attaque et défendaient ce qu'ils aimaient en utilisant leurs pouvoirs spirituels."
+    },
+    "waylander":
+    {
+        "firstEncounter": "Chapitre 1 de Waylander",
+        "explain": "L'Assassin, Dakeyras, également connu sous le nom de Waylander et d'Homme Gris, était un tristement célèbre assassin Drenaï dont les actions sont devenues des événements centraux à plusieurs moments de l'histoire du monde. Après avoir mené une brève carrière dans l'armée drenaï, Dakeyras s'est marié et s'est installé, mais sa vie a été détruite un après-midi d'été lorsqu'un gang de bandits a brutalement assassiné sa famille. Consumé par la rage et un besoin de vengeance, Dakeyras a traqué les membres du gang de bandits pendant les vingt années suivantes, les traquant et les tuant un par un. Pendant cette période de sa vie, il se fait appeler Waylander, et c'est sous ce nom qu'il sera reconnu comme l'un des assassins les plus meurtriers qui aient jamais vécu. Il finit par accepter un contrat pour assassiner son propre roi, le roi Drenaï Nialliad. Ayant réussi à mener à bien ce contrat, il a été trahi par son employeur et forcé de s'enfuir. Rencontré par un vieil homme prétendant être Orien, père du roi Nialliad, Waylander accepte d'entreprendre la quête de l'Armure de Bronze. Une fois la quête terminée, il a tourné le dos à son métier et s'est installé avec sa deuxième famille."
+    }
+}

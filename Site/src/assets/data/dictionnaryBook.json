@@ -1,0 +1,182 @@
+{
+    "armure":
+    {
+        "firstEncounter": "Prologue de Waylander",
+        "explain" : "L'Armure, ou l'Armure de Bronze, est une armure qui a été fabriquée pour le roi Orien, ancien roi de Drenaï. Ce-dernier a déposé cette armure dans une grotte avant de disparaître et de laisser son royaume aux mains de son fils, Niallad. D'après Orien, Drenaï est vouée à sombrer dans une guerre sanglante, son seul espoir de résurection repose sur l'Armure de Bronze, qui ne pourra être emportée que par un seul être, l'Elu, qui sauvera le peuple Drenaï de sa menace."
+    },
+    "armure de Bronze":
+    {
+        "firstEncounter": "Prologue de Waylander",
+        "explain" : "L'Armure, ou l'Armure de Bronze, est une armure qui a été fabriquée pour le roi Orien, ancien roi de Drenaï. Ce-dernier a déposé cette armure dans une grotte avant de disparaître et de laisser son royaume aux mains de son fils, Niallad. D'après Orien, Drenaï est vouée à sombrer dans une guerre sanglante, son seul espoir de résurection repose sur l'Armure de Bronze, qui ne pourra être emportée que par un seul être, l'Elu, qui sauvera le peuple Drenaï de sa menace."
+    },
+    "assassin":
+    {
+        "firstEncounter": "Chapitre 1 de Waylander",
+        "explain": "L'Assassin, Waylander l'Assassin ou l'homme gris sont autant de nom donné à Waylander. Après l'assassinat de sa famille, il se mis à la recherche des brigands lui ayant pris sa vie et les tua un à un pour assouvrir sa vengeance. Il s'est mis en quête de récupérer l'Armure de Bronze après avoir vu le roi Orien dans des visions."
+    },
+    "chaos":
+    {
+        "firstEncounter": "Prologue de Waylander",
+        "explain": "Le Chaos, ou l'Esprit du Chaos, est l'exact opposé de la Source. Il est une divinité créatrice de la destruction, de la violence et du chaos en général. Il est vénéré par la Confrérie Noire, appelée aussi les Chevaliers de Sang, Templiers Noirs ou Chevaliers des Ténèbres."
+    },
+    "chien du Chaos":
+    {
+        "firstEncounter": "Chapitre 2 de Waylander",
+        "explain": "Les Chiens du Chaos font partie de la Confrérie Noire, ils sont le bras armés de la Confrérie. Ce sont des tueurs surentrainés en armure intégrale ingérant des feuilles de Lorassium pour bénificier des mêmes pouvoirs que les mystiques, séparer leur âme de leur corps par exemple."
+    },
+    "confrérie":
+    {
+        "firstEncounter": "Chapitre 5 de Waylander",
+        "explain": "La Confrérie Noire est l'exact opposé des Prêtres de la Source, ils vénèrent l'Esprit du Chaos et utilisent son pouvoir à des fins malfaisantes. Ils sont à l'origine de la création des Chiens du Chaos et veulent détruire le peuple Drenaï pour régner sur le continent."
+    },
+    "dakeyras":
+    {
+        "firstEncounter": "Chapitre 6 de Waylander",
+        "explain": "Dakeyras est le véritable nom de Waylander, il a cessé de l'employer quand un après-midi, il a découvert sa famille assassinée. Ce jour-là, l'homme qu'était Dakeyras est mort avec sa famille et un homme nouveau empli de haine, de colère et assoiffé de vengeance est né, Waylander est né."
+    },
+    "danyal":
+    {
+        "firstEncounter": "Chapitre 2 de Waylander",
+        "explain": "Danyal est une jeune femme qui a survécu avec Culas, Miriel et Krylla, de jeunes enfants, à une attaque des Chiens du Chaos. Son seul but était d'aller avec les enfants en sécurité près d'Egel, derrière les murs de la forteresse de Dros Purdol. Le début de la relation entre Waylander et Danyal était froid mais après avoir traversé multitude d'épreuve, un amour est né entre eux."
+    },
+    "dardalion":
+    {
+        "firstEncounter": "Chapitre 1 de Waylander",
+        "explain": "Dardalion est un prêtre de la Source avec des pouvoirs de mystiques incroyable. Il a rencontré Waylander alors qu'il était torturé par des brigand et que ce-dernier les a retrouvé en voulant récupérer son cheval. Sans savoir pourquoi, Waylander l'a sauvé et ils ont parcouru un long chemin ensemble. Maintenant, Dardalion est à la tête des Trente, trentes prêtres de la Source qui ont pris les armes et qui combattent pour la Source, ils sont réprimés par les autres Prêtres de la Source pour avoir pris les armes et abandonnés certains principes qui les guidaient."
+    },
+    "drenaï":
+    {
+        "firstEncounter": "Prologue de Waylander",
+        "explain": "Drenaï est une grande nation avec de nombreux ennemis tel que les Nadirs, les Sathulis et les empires Ventrien et Vagrian. Le royaume était sous la couronne de Orien avant qu'il abandonne son armure, ensuite sous le règne de Niallad, le fils de Orien. Quand celui-ci est mort assassiné, la guerre éclata entre l'armée Drenaï et l'armée Vagrianne."
+    },
+    "dros purdol":
+    {
+        "firstEncounter": "Chapitre 4 de Waylander",
+        "explain": "Dros Purdol est une ville portuaire avec une fortification militaire. Le général Egel retient les force Vagrianne là-bas, c'est le dernier rempart avant que Drenaï ne tombe entre les mains des Vagrians."
+    },
+    "durmast":
+    {
+        "firstEncounter": "Chapitre 10 de Waylander",
+        "explain": "Durmast est une vieille connaissance de Waylander, il est aussi amoral et sans-pitié que lui. Chacun fait confiance à l'autre comme ils font confiance aux autres, ils ne font confiance à personne et leur relation se limite à des services payant qu'ils se font l'un l'autre. Avec l'aide de Durmast, Waylander peut se rendre jusqu'à l'Armure de Bronze et Durmast recevra six milles picèces d'or en échange. Cependant, Durmast est en association avec Sorak pour tuer Waylander et empocher la prime pour la tête de Waylander qui s'élève à cinq milles pièces d'or."
+    },
+    "egel":
+    {
+        "firstEncounter": "Chapitre 2 de Waylander",
+        "explain": "Egel est le général de l'armée de Drenaï. Il tente de résister à l'attaque de l'armée vagrianne à Dros Purdol malgré que ses effectifs soient nettement moindre que ceux de l'armée ennemie."
+    },
+    "empire vagrian":
+    {
+        "firstEncounter": "Chapitre 5 de Waylander",
+        "explain": "L'empire Vagrian ou Vagria est situé au sud-ouest de Drenaï."
+    },
+    "empire ventrian":
+    {
+        "firstEncounter": "Chapitre 1 de Waylander",
+        "explain": "L'empire ventrian ou Ventria est sité au sud-est de Drenaï, de l'autre côté de la mer Ventrianne."
+    },
+    "enson":
+    {
+        "firstEncounter": "Chapitre 23 de Waylander",
+        "explain": "Enson est un Chien du Chaos découvrant ses pouvoirs lentement sous la tutelle de Tchard, un Chien du Chaos plus expérimenté. Tout deux, ils doivent tuer Waylander en accord avec DurmastIl n'y a aucune trace de son passage avant."
+    },
+    "kaem":
+    {
+        "firstEncounter": "Chapitre 5 de Waylander",
+        "explain": "Kaem est le général de l'armée vagrianne, il a payé Waylander pour tuer le roi Niallad, ce qui a permis à Kaem de déclencher une guerre entre Vagria et Drenaï."
+    },
+    "kaï":
+    {
+        "firstEncounter": "Chapitre 21 de Waylander",
+        "explain": "Kaï est un homme-monstre borgne capable de soigner des blessures seulement avec ses mains et vivant anormalement longtemps. Il a été abandonné peu après sa naissance et il s'en rappelait bien car il possède une mémoire exceptionnelle. Sans nom, ni futur, il a vécu d'une manière simple, regardeant les bergers guider leurs troupeaux et les oiseaux voler au-dessus de lui. Il se donna le nom de Kaï."
+    },
+    "kesa khan":
+    {
+        "firstEncounter":"Chapitre 16 de Waylander",
+        "explain": "Kesa Khan est un chaman utilisant ses pouvoirs pour servir l'armée vagrianne. Il utilise ses osselets pour prédire l'avenir et use de pouvoirs maléfiques pour transférer des âmes humaines dans le corps d'animaux et procurer des feuilles de Lorassium pour permettre aux Chiens du Chaos de bénificier des mêmes pouvoirs que les mystiques."
+    },
+    "élu":
+    {
+        "firstEncounter": "Prologue de Waylander",
+        "explain": "L'Elu est une personne encore inconnue. D'après Orien, lui seul pourra récupérer l'Armure de Bronze et lui seul pourra sauver Drenaï des jours sanglants."
+    },
+    "géant sacré":
+    {
+        "firstEncounter": "Chapitre 5 de Waylander",
+        "explain": "Le Géant Sacré est le nom donné à Raboas, une immense montagne située au centre de la chaîne de montagne de la Lune. Elle est située à l'ouest de Gulgothir, au nord de Drenaï."
+    },
+    "lenlaï le possédé":
+    {
+        "firstEncounter": "Chapitre 18 de Waylander",
+        "explain": "Lenlaï le possédé était un homme qui s'était mangé la langue après une violente crise. Avec 5 autres hommes qui avaient perdus leurs forces, comme un bras ou la capacité de marcher, il a été l'objet d'un rituel pratiqué par Kesa Khan pour que son âme revive dans le corps d'un loup."
+    },
+    "miriel et krylla":
+    {
+        "firstEncounter": "Chapitre 1 de Waylander",
+        "explain": "Miriel et Krylla sont deux soeurs jummelles qui sont dotées de pouvoir de mystiques. Elles ont fait un bout de chemin avec Danyal, Waylander et Dardalion avant de rester à Skultik pour apprendre à utiliser leurs pouvoirs."
+    },
+    "nadir":
+    {
+        "firstEncounter": "Prologue de Waylander",
+        "explain": "Les Nadirs sont un peuple vivant dans les steppes nadires, au nord de Drenaï."
+    },
+    "niallad":
+    {
+        "firstEncounter": "Prologue de Waylander",
+        "explain": "Fils du défunt roi Orien, il lui succéda après qu'Orien ai placée l'Armure de Bronze dans une grotte de Raboas. Il a été assassiné par Waylander durant une nuit."
+    },
+    "orien":
+    {
+        "firstEncounter": "Prologue de Waylander",
+        "explain": "Orien est l'ancien roi de Drenaï, il était le possesseur de l'Armure de Bronze qu'il a caché dans une grotte de Raboas. Il a rendu visite à Waylander pendant des visions, lui indiquant où se trouvait l'Armure pour qu'il aille la récupérer."
+    },
+    "prêtre de la source":
+    {
+        "firstEncounter": "Chapitre 1 de Waylander",
+        "explain": "Les Prêtres de la Source vénèrent la Source, la divinité source de toute chose. Ils visent à contrer la guerre par la paix, la haine par l'amour et la violence par un pacifisme extrême."
+    },
+    "raboas":
+    {
+        "firstEncounter": "Chapitre 5 de Waylander",
+        "explain": "Raboas est la montagne centrale de la chaîne de montagne de la Lune. Elle est la plus grande montagne et est ainsi surnommée le Géant Sacré. C'est en son sein qu'est cachée l'Armure de Bronze d'Orien."
+    },
+    "sathuli":
+    {
+        "firstEncounter": "Chapitre 6 de Waylander",
+        "explain": "Les Sathuli étaient une tribus semi-nomades habitant les montagnes du Delnoch. C'était un peuple reclus de guerrier profondément religieux."
+    },
+    "sorak":
+    {
+        "firstEncounter": "Chapitre 10 de Waylander",
+        "explain": "Sorak est le complique de Durmast, ils sont alliés pour tuer Waylander et empôcher la prime de cinq mille pièce d'or qu'il y a sur la tête de l'Assassin."
+    },
+    "source":
+    {
+        "firstEncounter": "Chapitre 2 de Waylander",
+        "explain": "La Source est une divinité priée par les Prêtres de la Source. Elle est considérée comme la source de toutes choses, influencerait les évènements du monde par l'inspiration, la guidance et les rouages subtils du destin."
+    },
+    "tanya":
+    {
+        "firstEncounter": "Chapitre 2 de Waylander",
+        "explain": "Tanya était la femme de Waylander, elle a été assassinée par des brigands avec ses enfants. Ce jour-là, Waylander est devenu un autre homme plein de colère, de besoin de vengeance et de rancoeur."
+    },
+    "tchard":
+    {
+        "firstEncounter": "",
+        "explain": "Tchard est un Chien du Chaos ayant pour mission de tuer Waylander en commun accord avec Durmast. Il apprend à Enson a utiliser ses pouvoirs de Chien du Chaos. Il n'y a aucune trace de son passage avant."
+    },
+    "temple":
+    {
+        "firstEncounter": "Chapitre 6 de Waylander",
+        "explain": "Le Temple, en plus d'être une église où se réunisse les Trente, est aussi une forme spirituelle où chaque âme des Trente ne fait plus qu'un avec celle des autres. Sous cette forme, les Trente deviennent une entité surpuissante mais néanmoins très dangereuse car le Temple peut submerger la personnalité de chaque Prêtre."
+    },
+    "trente":
+    {
+        "firstEncounter": "Chapitre 6 de Waylander",
+        "explain": "Les Trente sont un groupe de Prêtres de la Source qui partagent les idées de Dardalion. Les Prêtres de la Source sont totalement pacifistes mais les Trente restent des Prêtres de la Source qui passent à l'attaque et défendent ce qu'ils aiment en utilisant leurs pouvoirs spirituels. Ils forment le premier Temple des Trente."
+    },
+    "waylander":
+    {
+        "firstEncounter": "Chapitre 1 de Waylander",
+        "explain": "L'Assassin, Waylander l'Assassin ou l'homme gris sont autant de nom donné à Waylander. Après l'assassinat de sa famille, il se mis à la recherche des brigands lui ayant pris sa vie et les tua un à un pour assouvrir sa vengeance. Il s'est mis en quête de récupérer l'Armure de Bronze après avoir vu le roi Orien dans des visions."
+    }
+}

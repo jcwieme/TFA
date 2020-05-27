@@ -1,0 +1,46 @@
+#kindle
+{
+    font-family: 'Cambria', serif;
+    margin: 0;
+    padding: 1em;
+    background: #222;
+    border: 8px ridge #333;
+    border-radius: 30px;
+    width: fit-content;
+    height: fit-content;
+
+    &::after
+    {
+        content: "Kindle";
+        display: flex;
+        justify-content: center;
+        margin-top: -10px;
+        font-weight: 300;
+        font-size: 30px;
+        font-family: "Ubuntu", sans-serif;
+        color: #ccc;
+    }
+  }
+
+.screen
+{
+    margin: 0 auto 10px auto;
+    background-color: #fff;
+    border: 8px inset #222;
+    border-radius: 5px;
+
+    &-title
+    {
+        font-size: $p-medium;
+        text-align: center;
+        font-weight: bolder;
+        margin: $space-big 0;
+    }
+
+    &-paragraph
+    {
+        font-size: $p-small;
+        margin: 0 $space-medium $space-small $space-medium;
+        white-space: pre-wrap;
+    }
+}
